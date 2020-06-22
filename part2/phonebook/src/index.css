@@ -1,0 +1,9 @@
+.notification.success {
+  background: mediumspringgreen;
+  color: #313131;
+}
+
+.notification.error {
+  background: crimson;
+  color: #f5f5f5;
+}
